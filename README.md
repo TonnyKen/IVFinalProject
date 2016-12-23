@@ -4,6 +4,9 @@ This is a project to visualize the regular pattern of email response behavior of
 
 Using a provided dataset which contains the email information of a user and his/her contacts, we want to figure out XXxx. 
 
+### Demo: https://tonnyken.github.io
+### video: 
+
 ## What kinds of problems we want to focus on
 There are three primary problems we want solve from the data.
 
