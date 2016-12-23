@@ -1,4 +1,5 @@
-# IVFinalProject
+# Visualizing Email Response Time
+## Description
 This is a project to visualize the regular pattern of email response behavior of an email user and his/her contacts.
 
 Using a provided dataset which contains the email information of a user and his/her contacts, we want to figure out XXxx. 
@@ -16,4 +17,6 @@ There are three primary problems we want solve from the data.
 d3.js, javascript, JQuery, css, html
 
 ## Pictures of our project
-![alt text](https://raw.githubusercontent.com/yanyatong/yanyatong.github.io/master/screen.png )
+![alt text](https://raw.githubusercontent.com/TonnyKen/IVFinalProject/master/demopic/Picture1.png )
+![alt text](https://raw.githubusercontent.com/TonnyKen/IVFinalProject/master/demopic/Picture2.png )
+![alt text](https://raw.githubusercontent.com/TonnyKen/IVFinalProject/master/demopic/Picture3.png )
