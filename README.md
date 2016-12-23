@@ -14,3 +14,6 @@ There are three primary problems we want solve from the data.
 
 ## Techniques we use for this project
 d3.js, javascript, JQuery, css, html
+
+## Pictures of our project
+![alt text](https://raw.githubusercontent.com/yanyatong/yanyatong.github.io/master/screen.png )
