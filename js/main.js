@@ -516,8 +516,8 @@
                               .text(this.name + "@gmail.com");
           
         }
-        d3.csv('OverallData.csv', function(error,overall_data) {
-            d3.csv('DetailedData.csv').row(function(d) {
+        d3.csv('data/OverallData.csv', function(error,overall_data) {
+            d3.csv('data/DetailedData.csv').row(function(d) {
                             return {
                                 address : d.To_address,
                                 valueFrom : [+d["from<120"],+d["from120~240"],+d["from240~360"],+d["from360~480"],+d["from480~600"],+d["from>=600"]],
