@@ -1,4 +1,5 @@
-# IVFinalProject
+# Visualizing Email Response Time
+## Description
 This is a project to visualize the regular pattern of email response behavior of an email user and his/her contacts.
 
 Using a provided dataset which contains the email information of a user and his/her contacts, we want to figure out XXxx. 
