@@ -1,7 +1,7 @@
 # IVFinalProject
 This is a project to visualize the regular pattern of email response behavior of an email user and his/her contacts.
 
-In this project. We use a dataset which contains the email information of a user and his/her contacts. 
+Using a provided dataset which contains the email information of a user and his/her contacts, we want to figure out XXxx. 
 
 # What kinds of problems we want to focus on
 There are three primary problems we want solve from the data.
@@ -12,3 +12,5 @@ There are three primary problems we want solve from the data.
 
 3. How does the quantity of email between an email user and his contacts distribute over response time? (For a specific contact A, one could reply 3 emails in 5 minutes, 2 emails between 5 and 10 minutes, 4 emails between 10 and 15 minutes…)
 
+# Techniques we use for this project
+d3.js, javascript, JQuery, css, html
