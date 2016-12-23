@@ -2,7 +2,7 @@
 ## Description
 This is a project to visualize the regular pattern of email response behavior of an email user and his/her contacts.
 
-Using a provided dataset which contains the email information of a user and his/her contacts, we want to figure out XXxx. 
+Using a provided dataset which contains the email information of a user and his/her contacts, we want to figure out the regular pattern of email response behavior between email users and their contacts. 
 
 #### Demo: https://tonnyken.github.io
 #### Video: https://vimeo.com/196884388
@@ -18,6 +18,11 @@ There are three primary problems we want solve from the data.
 
 ## Techniques we use for this project
 d3.js, javascript, JQuery, css, html
+
+## Code structure
+homepage.html : main page of our project
+css/style.css : css file
+js/main.js : use d3.js to draw charts in our page
 
 ## Pictures of our project
 ![alt text](https://raw.githubusercontent.com/TonnyKen/IVFinalProject/master/demopic/Picture1.png )
