@@ -1,4 +1,4 @@
-# Visualizing Email Response Time
+# Visualizing Email Response Time<br/>
 ## Description
 This is a project to visualize the regular pattern of email response behavior of an email user and his/her contacts.
 
@@ -20,9 +20,9 @@ There are three primary problems we want solve from the data.
 d3.js, javascript, JQuery, css, html
 
 ## Code structure
-homepage.html : main page of our project
-css/style.css : css file
-js/main.js : use d3.js to draw charts in our page
+homepage.html : main page of our project<br/>
+css/style.css : css file<br/>
+js/main.js : use d3.js to draw charts in our page<br/>
 
 ## Pictures of our project
 ![alt text](https://raw.githubusercontent.com/TonnyKen/IVFinalProject/master/demopic/Picture1.png )
