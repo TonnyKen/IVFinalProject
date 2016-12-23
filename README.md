@@ -1,5 +1,5 @@
 # IVFinalProject
-A project to visualize the regular pattern of email response behavior of an email user and his/her contacts.
+This is a project to visualize the regular pattern of email response behavior of an email user and his/her contacts.
 
 In this project. We use a dataset which contains the email information of a user and his/her contacts. 
 
