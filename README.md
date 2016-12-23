@@ -16,4 +16,6 @@ There are three primary problems we want solve from the data.
 d3.js, javascript, JQuery, css, html
 
 ## Pictures of our project
-![alt text](https://raw.githubusercontent.com/yanyatong/yanyatong.github.io/master/screen.png )
+![alt text](https://github.com/TonnyKen/IVFinalProject/tree/master/demopic/Picture1.png )
+![alt text](https://github.com/TonnyKen/IVFinalProject/tree/master/demopic/Picture2.png )
+![alt text](https://github.com/TonnyKen/IVFinalProject/tree/master/demopic/Picture3.png )
