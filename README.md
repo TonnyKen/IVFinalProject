@@ -23,6 +23,7 @@ d3.js, javascript, JQuery, css, html
 homepage.html : main page of our project<br/>
 css/style.css : css file<br/>
 js/main.js : use d3.js to draw charts in our page<br/>
+data : the datasets we use to visualize<br/> 
 
 ## Pictures of our project
 ![alt text](https://raw.githubusercontent.com/TonnyKen/IVFinalProject/master/demopic/Picture1.png )
